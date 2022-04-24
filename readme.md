@@ -1,4 +1,4 @@
-Hi gitTrial master
+changed on local repository
 
 Hello gitTrial
 
