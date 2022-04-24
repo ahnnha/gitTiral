@@ -1,4 +1,4 @@
-Hi gitTrial master
+Changed on remore repository
 
 Hello gitTrial
 
